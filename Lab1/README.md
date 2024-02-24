@@ -4,4 +4,4 @@ Prvi program koristi standardne funckije programskog jezika C(fopen, fread, fwri
 
 Drugi program koristi sistemske pozive linux-a (open, read, write).
 
-Oba programa korsite memoriju od X byte-ova kod kopiranja kao prolazni buffer.
+Oba programa koriste memoriju od X byte-ova kod kopiranja kao prolazni buffer.
